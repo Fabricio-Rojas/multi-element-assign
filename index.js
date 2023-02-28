@@ -1,11 +1,5 @@
 'use strict';
 
-/*
-    JavaScript Basics
-
-    Assignment 6
-*/
-
 // ---------------------- Declaring Document Elements ----------------------
 
 // Display Elements
@@ -55,9 +49,6 @@ equalsBtn.addEventListener('click', function() {
 })
 
 // ---------------------- Button Functions ----------------------
-
-// Just add their values to the input, just seing the line count makes me think
-// there is probably a better answer, but i'll just leave it at this
 
 clearBtn.addEventListener('click', function() {
     pastInp.innerText = '';
