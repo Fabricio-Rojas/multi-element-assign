@@ -82,6 +82,9 @@ inpBtns.forEach(inpBtns => inpBtns.addEventListener('click', function() {
 
 Implementing this solution helped me a lot, as it almost halved the amount of 
 lines the original code used, from 137 lines to just 68.
+The HTML page can be seen here:
+
+https://rawcdn.githack.com/Fabricio-Rojas/multi-element-assign/59279482206adecd1c53202875a8bf73f02a16ea/index.html
 
 ### References
 
