@@ -108,3 +108,12 @@ input[type=button]:active, input[type=reset]:active {
     box-shadow: inset 1px 1px 1px #000;
     border: none;
 }
+
+#equals {
+    cursor: pointer;
+}
+
+#equals:active {
+    box-shadow: inset 1px 1px 1px #000;
+    border: none;
+}

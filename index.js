@@ -61,8 +61,8 @@ equalsBtn.addEventListener('click', function() {
 
 clearBtn.addEventListener('click', function() {
     pastInp.innerText = '';
-})
+});
 
 inpBtns.forEach(inpBtns => inpBtns.addEventListener('click', function() {
     numInp.value += inpBtns.value;
-}))
+}));
